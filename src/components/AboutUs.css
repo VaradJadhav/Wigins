@@ -1,0 +1,29 @@
+.aboutUs h1 {
+    text-align: center;
+    font-family: 'Sansation';
+    color: white;
+}
+
+/* .aboutUs {
+
+    
+} */
+
+.container {
+    background-image: url(IIITHome.png);
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-position: center;
+
+    
+    background-size: auto 200%;
+}
+
+.aboutUs p {
+    font-family: 'Saira';
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: 300;
+    /* font-size: 15px; */
+    letter-spacing: 0.1em;
+}

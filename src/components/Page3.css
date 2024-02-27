@@ -1,0 +1,121 @@
+
+.imgg{
+    margin-top: 40px;
+   margin-left: 100px; 
+}
+.imgg img{
+    /* size: 100px 10px; */
+    height: 25rem;
+}
+.line h1{
+    color: aliceblue;
+    /* margin-top: 100px; */
+}
+/* .float-container {
+    padding: 20px;
+} */
+
+.float-child1 {
+    width: 55%;
+    float: left;
+    padding: 25px;
+    line-height: 5rem;
+    
+}
+.float-child2 {
+    margin-left: 60px;
+    color:wheat;
+    line-height: 4rem;
+    padding-top: 200px;
+    padding-left: 50rem;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+
+    /* margin-top: 10px; */
+}
+#heading {
+    margin-top: 12%;
+    position: relative;
+    top: 70%;
+    left: 45%;
+    transform: translate(-50%, -20%);
+    height: 10%;
+    width: 60%;
+    left: 63%;
+    font-weight: 700;
+    font-family: 'Sansation';
+    font-size: 300%;
+    line-height: 90px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+#sub{
+    color: #62C6FF;
+    ;
+   margin-left: 15%;
+   font-weight: 700;
+   font-family: 'Sansation';
+   font-size: 400%;
+   /* line-height: 90px; */
+   display: flex;
+   align-items: center;
+   text-align: center;
+   letter-spacing: 0.1em;
+
+}
+#sub1{
+    color: #FFFFFF;
+    margin-top: 4rem;
+   margin-left: 15%;
+   font-weight: 700;
+   font-family: 'Sansation';
+   font-size: 400%;
+   /* line-height: 90px; */
+   display: flex;
+   align-items: center;
+   text-align: center;
+   letter-spacing: 0.1em;
+
+}
+.form-control{
+    margin-left: 50px;
+}
+.input-container {
+    display: flex;
+    justify-items: center;
+    /* margin-top:12rem; */
+    /* line-height:100px; */
+    display:inline-block;
+
+    /* line-height:100rem; */
+    /* border-color: chartreuse; */
+    /* color: aqua; */
+    /* background-color: #62C6FF; */
+}
+.input-container input {
+    margin-right: 4rem;
+    display:inline-block;
+text-align: center;
+    /* border-width: 5px; */
+    /* border-color: aqua; */
+    margin-left: 9rem;
+    /* border-radius: 30%; */
+    border-radius: 50px 50px 50px 50px;
+    height: 3.5rem;
+    /* padding-top: 3.5rem; */
+    width: 15rem;
+    background-color:#1B1B1B;
+    color: white;
+}
+.inputbox{
+    /* display: inline; */
+    /* margin-bo: 30rem; */
+    line-height:100px;
+    display:inline-block;
+
+  }
